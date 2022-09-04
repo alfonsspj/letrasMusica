@@ -20,7 +20,7 @@ const Formulario = () => {
 
     busquedaLetra(busqueda)
     // desaparzca la alerta en caso de que se envien artista y cancion
-    setAlerta('')
+    // setAlerta('')
   }
   return (
     <form
